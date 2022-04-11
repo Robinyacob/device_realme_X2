@@ -19,6 +19,12 @@ PRODUCT_MANUFACTURER := realme
 # Bootanimation Resolution
 TARGET_BOOT_ANIMATION_RES := 1080
 
+# Cherish Maintainer
+
+PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
+
+    ro.cherish.maintainer=Robin
+
 # Gapps Build
 
 WITH_GMS := true
