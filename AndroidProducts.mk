@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/nad_X2.mk
+    $(LOCAL_DIR)/cherish_X2.mk
 
     COMMON_LUNCH_CHOICES := \
-    nad_X2-eng \
-    nad_X2-user \
-    nad_X2-userdebug
+    cherish_X2-eng \
+    cherish_X2-user \
+    cherish_X2-userdebug
